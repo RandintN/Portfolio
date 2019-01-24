@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: robsoncassiano.tk
+Token: a8372004384686b5aaa47f18aa04d8b9bb35db141e18bc8ada7abda8cb885a34
